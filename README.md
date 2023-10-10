@@ -1,14 +1,6 @@
 # Proyecto ETL con Python: Construyendo un Pipeline Básico
 
-Este proyecto guiado te llevará a través de la creación de un pipeline básico de ETL (Extract, Transform, Load) utilizando herramientas como Google Colab, bibliotecas de Python y SQL. Aprenderás a extraer datos de diversas fuentes, aplicar transformaciones, cargar datos en una base de datos y automatizar todo el proceso. 
-
-## Nivel de Dificultad
-
-Este proyecto se considera de nivel intermedio y está diseñado para analistas de datos y cualquier persona interesada en ciencia de datos. Se recomienda tener conocimientos previos en programación en Python, especialmente en variables y condicionales. Además, necesitarás una cuenta de Gmail para interactuar con Google Colab.
-
-## Instructor
-
-Andrés Escuadra será tu instructor en este proyecto. Es un científico de datos con experiencia en la administración de bases de datos y el backend de plataformas de comercio electrónico.
+Este proyecto trata de la creación de un pipeline básico de ETL (Extract, Transform, Load) utilizando herramientas como Google Colab o en este caso Visual Studio Code, bibliotecas de Python y SQL. Aprendi a extraer datos de diversas fuentes, aplicar transformaciones, cargar datos en una base de datos y automatizar todo el proceso. 
 
 ## Descripción del Proyecto
 
