@@ -44,5 +44,5 @@ datos = pd.read_csv(archivo_csv)
 
 
 <div align="center">
-  <img src="src/Certificate_ILBERT Alarcon.png" alt="Conceptos básicos de Python">
+  <img src="src/Certificate_ILBERT Alarcon.png" alt="certificado">
 </div>
