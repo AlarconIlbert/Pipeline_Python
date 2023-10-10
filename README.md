@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="src/Head.png" alt="Conceptos básicos de Python">
+</div>
+
+
 # Proyecto ETL con Python: Construyendo un Pipeline Básico
 
 Este proyecto trata de la creación de un pipeline básico de ETL (Extract, Transform, Load) utilizando herramientas como Google Colab o en este caso Visual Studio Code, bibliotecas de Python y SQL. Aprendi a extraer datos de diversas fuentes, aplicar transformaciones, cargar datos en una base de datos y automatizar todo el proceso. 
@@ -21,7 +26,7 @@ Antes de comenzar, asegúrate de tener una cuenta de Gmail para interactuar con 
 
 ## Configuración Inicial
 
-1. Accede a Google Colab.
+1. Accede a Google Colab y/o Visual Studio Code.
 2. Crea un nuevo Notebook llamado "ETL" con la extensión ".ipynb".
 3. Importa la biblioteca pandas utilizando la sentencia `import pandas as pd`.
 
@@ -35,3 +40,9 @@ import pandas as pd
 
 archivo_csv = 'ruta/al/archivo.csv'
 datos = pd.read_csv(archivo_csv)
+```
+
+
+<div align="center">
+  <img src="src/Certificate_ILBERT Alarcon.png" alt="Conceptos básicos de Python">
+</div>
